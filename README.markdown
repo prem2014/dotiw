@@ -39,6 +39,13 @@ Oh, and did I mention it supports I18n? Oh yeah. Rock on!
 ### Options
 
 #### :locale
+######################################################################################
+#
+#
+#                                               Added
+#
+#
+######################################################################################
 
 You can pass in a locale and it'll output it in whatever language you want (provided you have translations, otherwise it'll default to English):
 
